@@ -62,7 +62,9 @@ Security between the app and the storage account is managed via the system ident
 
 ## Securing your API
 
-All of the API's are anonymous access, so how do you protect them? 
+All of the API's are anonymous access, so how do you protect them? Using built in firewalls on the Azure Function App
+
+![secure](./images/secure-architecture.jpg)
 
 Create an API Management Instance
 
